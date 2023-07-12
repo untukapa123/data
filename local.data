@@ -1,1 +1,24 @@
-AX8Bg+EMRY+dbafKU4Ircz4oxmWav32uLifT8tB3tEVWueJSkOQnMVtWHoilAwPdl2buglrrJZaT5Mvg7O0h0GM0MEXgQyGQ9nRRavQpbg8Hkr3c2rZxqjFD1F6JaiIuGNP1UVTeW8R1+FwzZFdNDgJqAII+E9wrckf9iC32GAD2U1+kwSP8bJMtALPur0QswABQiXzr6H61A3VYRHgWFzfkCZgLToRlz6jC1hlBDqqXXr8CgfdqKz7E2JdGpMEoLqDW5JDZzEKL4AjS7gdVFK2WCO+CmGtB8JBixcAZZcpmIti5PtdeUE6mudAlHwPCO/BQNw2vD9gnG5OawTobgn6PeJVe4A10xui5s3Ma1aKWE5G4rvMaOE1+c8bx3Ojq3Eso9K3q1qp3IKA2oCAq3gDP7hPDnN2qDjnMzhK/J0ehElCNGUvd7qipXEtbJUcXwWXlP+TegVNsEPxS3iUdaxgQ3nH+xV0OrZFNWCNt936/Me/1KwbYNblferAlUBFyci5LQY8EF59XLzg6/p5dgWQ0G0xq3tsY1sIJLhSW5Nju8ag5fIjQ2hUkK4qm1X3afxWEoLxzjOf4vgOMb1TP17m3z6F85EMAnPxwVo2bF4729q3oVAeZcN7b8z6EnK/Nx64FdF46NLhJVKHeUbrAxNLk9Qi4lPKUmgCm9H3x5ufL9qIPT7sBSfHoYas0McksHKv/Z6Hg3Ee27dqIdjYwB9E9TI+tSrVA8MSFm6wkv/VUahTTntew9FivirNzK+hF2tOh+N7yE3bo1nj4pxBtwblDpUTTO/TmM9s78UG7jJp8Z4tfudE34gt5Go/7vMv+ElAniU24zsOsIKG9YvpU/A==
+[
+    {
+        "siaran": "Jowo Channel",
+        "link": "https:\/\/raw.githubusercontent.com\/thefirefox12537\/streams\/7247bc5a455349aa5c3b94cb19f08c47548fb1f2\/jowo_playback.m3u8",
+        "gambar": "https:\/\/i.ibb.co\/3rmyLKH\/20230603-122102.jpg",
+        "drmserver": "",
+        "widevine": "",
+        "referer": "",
+        "useragent": "",
+        "type": "mpd",
+        "exthttp": ""
+    },
+    {
+        "siaran": "tes",
+        "link": "",
+        "gambar": "",
+        "drmserver": "",
+        "widevine": "",
+        "referer": "",
+        "useragent": "",
+        "type": "",
+        "exthttp": ""
+    }
+]
