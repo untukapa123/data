@@ -9,16 +9,5 @@
         "useragent": "",
         "type": "mpd",
         "exthttp": ""
-    },
-    {
-        "siaran": "tes",
-        "link": "",
-        "gambar": "",
-        "drmserver": "",
-        "widevine": "",
-        "referer": "",
-        "useragent": "",
-        "type": "",
-        "exthttp": ""
     }
-]
+    ]
