@@ -1,0 +1,8 @@
+
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4845592,RESOLUTION=1280x720
+http://jaish4k.de/play/live.php?mac=00:1A:79:41:5D:B5&stream=466961&extension=m3u8&play_token=WHUb0fDSJq
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8245592,RESOLUTION=1920x1080
+http://jaish4k.de/play/live.php?mac=00:1A:79:41:5D:B5&stream=466960&extension=m3u8&play_token=WHUb0fDSJq
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=12402472,RESOLUTION=3840x2160
+http://jaish4k.de/play/live.php?mac=00:1A:79:41:5D:B5&stream=466959&extension=m3u8&play_token=mHlISmF3d5
